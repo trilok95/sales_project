@@ -121,7 +121,7 @@ Standard shipping is most used but slowest. Top salespeople significantly outper
 ---
 
 ## 👤 Author
-**Trilok Yadav**  
+**Trilok**  
 Aspiring Data Analyst | Power BI | SQL | Excel  
 
 ---
